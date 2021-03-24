@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Tag;
+namespace Titi60\SyliusFacebookPlugin\Tag;
 
-use Setono\SyliusFacebookPlugin\Builder\BuilderInterface;
+use Titi60\SyliusFacebookPlugin\Builder\BuilderInterface;
 use Setono\TagBag\Tag\TwigTag;
 
 class FbqTag extends TwigTag implements FbqTagInterface

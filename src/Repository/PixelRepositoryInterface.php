@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Repository;
+namespace Titi60\SyliusFacebookPlugin\Repository;
 
-use Setono\SyliusFacebookPlugin\Model\PixelInterface;
+use Titi60\SyliusFacebookPlugin\Model\PixelInterface;
 use Sylius\Component\Channel\Model\ChannelInterface;
 use Sylius\Component\Resource\Repository\RepositoryInterface;
 

@@ -5,7 +5,7 @@
                   xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping
                                       http://doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
 
-    <entity name="Setono\SyliusFacebookPlugin\Model\Pixel" table="setono_sylius_facebook__pixel">
+    <entity name="Titi60\SyliusFacebookPlugin\Model\Pixel" table="setono_sylius_facebook__pixel">
 
         <indexes>
             <index columns="enabled"/>

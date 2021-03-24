@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Tag;
+namespace Titi60\SyliusFacebookPlugin\Tag;
 
 use Setono\TagBag\Tag\TwigTagInterface;
 

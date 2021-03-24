@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Builder;
+namespace Titi60\SyliusFacebookPlugin\Builder;
 
 use function Safe\json_decode;
 use function Safe\json_encode;

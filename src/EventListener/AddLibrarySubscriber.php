@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\EventListener;
+namespace Titi60\SyliusFacebookPlugin\EventListener;
 
-use Setono\SyliusFacebookPlugin\Tag\Tags;
+use Titi60\SyliusFacebookPlugin\Tag\Tags;
 use Setono\TagBag\Tag\TagInterface;
 use Setono\TagBag\Tag\TwigTag;
 use Symfony\Component\HttpKernel\Event\GetResponseEvent;

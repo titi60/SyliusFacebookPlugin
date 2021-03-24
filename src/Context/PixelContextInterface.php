@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Context;
+namespace Titi60\SyliusFacebookPlugin\Context;
 
-use Setono\SyliusFacebookPlugin\Model\PixelInterface;
+use Titi60\SyliusFacebookPlugin\Model\PixelInterface;
 
 interface PixelContextInterface
 {

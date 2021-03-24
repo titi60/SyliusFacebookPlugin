@@ -2,16 +2,16 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\EventListener;
+namespace Titi60\SyliusFacebookPlugin\EventListener;
 
 use Psr\EventDispatcher\EventDispatcherInterface;
-use Setono\SyliusFacebookPlugin\Builder\ContentBuilder;
-use Setono\SyliusFacebookPlugin\Builder\PurchaseBuilder;
-use Setono\SyliusFacebookPlugin\Context\PixelContextInterface;
-use Setono\SyliusFacebookPlugin\Event\BuilderEvent;
-use Setono\SyliusFacebookPlugin\Tag\FbqTag;
-use Setono\SyliusFacebookPlugin\Tag\FbqTagInterface;
-use Setono\SyliusFacebookPlugin\Tag\Tags;
+use Titi60\SyliusFacebookPlugin\Builder\ContentBuilder;
+use Titi60\SyliusFacebookPlugin\Builder\PurchaseBuilder;
+use Titi60\SyliusFacebookPlugin\Context\PixelContextInterface;
+use Titi60\SyliusFacebookPlugin\Event\BuilderEvent;
+use Titi60\SyliusFacebookPlugin\Tag\FbqTag;
+use Titi60\SyliusFacebookPlugin\Tag\FbqTagInterface;
+use Titi60\SyliusFacebookPlugin\Tag\Tags;
 use Setono\TagBag\Tag\TagInterface;
 use Setono\TagBag\TagBagInterface;
 use Sylius\Component\Core\Model\OrderInterface;

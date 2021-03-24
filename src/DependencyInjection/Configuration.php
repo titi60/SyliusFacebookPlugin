@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\DependencyInjection;
+namespace Titi60\SyliusFacebookPlugin\DependencyInjection;
 
-use Setono\SyliusFacebookPlugin\Doctrine\ORM\PixelRepository;
-use Setono\SyliusFacebookPlugin\Form\Type\PixelType;
-use Setono\SyliusFacebookPlugin\Model\Pixel;
+use Titi60\SyliusFacebookPlugin\Doctrine\ORM\PixelRepository;
+use Titi60\SyliusFacebookPlugin\Form\Type\PixelType;
+use Titi60\SyliusFacebookPlugin\Model\Pixel;
 use Sylius\Bundle\ResourceBundle\Controller\ResourceController;
 use Sylius\Bundle\ResourceBundle\SyliusResourceBundle;
 use Sylius\Component\Resource\Factory\Factory;

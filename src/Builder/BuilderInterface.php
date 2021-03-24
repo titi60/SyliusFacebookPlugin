@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Builder;
+namespace Titi60\SyliusFacebookPlugin\Builder;
 
 interface BuilderInterface
 {

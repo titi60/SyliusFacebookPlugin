@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\EventListener;
+namespace Titi60\SyliusFacebookPlugin\EventListener;
 
 use function count;
 use Psr\EventDispatcher\EventDispatcherInterface;
-use Setono\SyliusFacebookPlugin\Context\PixelContextInterface;
-use Setono\SyliusFacebookPlugin\Formatter\MoneyFormatter;
+use Titi60\SyliusFacebookPlugin\Context\PixelContextInterface;
+use Titi60\SyliusFacebookPlugin\Formatter\MoneyFormatter;
 use Setono\TagBag\TagBagInterface;
 use Symfony\Bundle\SecurityBundle\Security\FirewallMap;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Setono\SyliusFacebookPlugin\Context;
+namespace Titi60\SyliusFacebookPlugin\Context;
 
-use Setono\SyliusFacebookPlugin\Repository\PixelRepositoryInterface;
+use Titi60\SyliusFacebookPlugin\Repository\PixelRepositoryInterface;
 use Sylius\Component\Channel\Context\ChannelContextInterface;
 
 final class PixelContext implements PixelContextInterface
