@@ -10,7 +10,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3",
+        "php": "^7.4 || ^8.0",
         "psr/event-dispatcher": "^1.0",
         "setono/tag-bag-bundle": "^2.0",
         "setono/tag-bag-twig": "^1.0",
